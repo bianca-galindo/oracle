@@ -14,7 +14,7 @@ package practicasJava;
  * Referencia : https://quees.com/while-programacion/*/
 
 
-public class condicionalWhile {
+public class cicloWhile {
 
 	public static void main(String[] args) {
 		

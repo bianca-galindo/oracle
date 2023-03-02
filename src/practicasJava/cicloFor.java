@@ -14,6 +14,7 @@ public class cicloFor {
 		while (contador <= 10) {
 			System.out.println(contador);
 			contador++;
+			
 		}
 
 	}

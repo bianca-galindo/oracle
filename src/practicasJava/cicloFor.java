@@ -6,8 +6,14 @@ public class cicloFor {
 
 	public static void main(String[] args) {
 		// (Crear variable e inicializar; validación ; incrementarvariable)
-		for(int contador=0; contador<=10; contador++) { 
+		for (int contador = 0; contador <= 10; contador++) {
 			System.out.println(contador);
+		}
+		//Proceso realizado en ciclo While. 
+		int contador = 0;
+		while (contador <= 10) {
+			System.out.println(contador);
+			contador++;
 		}
 
 	}
